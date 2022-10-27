@@ -1,0 +1,333 @@
+{
+  "adventurePaths": [
+    {
+      "title": "Rise of the Runelords",
+      "pubDates": {
+        "start": "Aug 2007",
+        "end": "Jan 2008"
+      },
+      "gameDate": 4707,
+      "location": "Varisia",
+      "endLevel": 18,
+      "desc": "",
+      "uniqueMechanics": "",
+      "imgPath": ""
+    },
+    {
+      "title": "Curse of the Crimson Throne",
+      "pubDates": {
+        "start": "Feb 2008",
+        "end": "Jul 2008"
+      },
+      "gameDate": 4708,
+      "location": "Varisia",
+      "endLevel": 18,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Second Darkness",
+      "pubDates": {
+        "start": "Aug 2008",
+        "end": "Jan 2009"
+      },
+      "gameDate": 4708,
+      "location": "Varisia",
+      "endLevel": 15,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Legacy of Fire",
+      "pubDates": {
+        "start": "Feb 2009",
+        "end": "Jul 2009"
+      },
+      "gameDate": 4709,
+      "location": "Katapesh",
+      "endLevel": 15,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Council of Thieves",
+      "pubDates": {
+        "start": "Aug 2009",
+        "end": "Jan 2010"
+      },
+      "gameDate": 4709,
+      "location": "Cheliax",
+      "endLevel": 13,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Kingmaker",
+      "pubDates": {
+        "start": "Feb 2010",
+        "end": "Jul 2010"
+      },
+      "gameDate": 4710,
+      "location": "Stolen Lands",
+      "endLevel": 17,
+      "desc": "",
+      "uniqueMechanics": ["Kingdom Management"],
+      "imgPath": ""
+    },
+    {
+      "title": "Serpent's Skull",
+      "pubDates": {
+        "start": "Aug 2010",
+        "end": "Jan 2011"
+      },
+      "gameDate": 4710,
+      "location": "Sargava; Mwangi Expanse",
+      "endLevel": 17,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Carrion Crown",
+      "pubDates": {
+        "start": "Feb 2011",
+        "end": "Jul 2011"
+      },
+      "gameDate": 4711,
+      "location": "Ustalav",
+      "endLevel": 15,
+      "desc": "",
+      "uniqueMechanics": ["Harrow Card Hero Points"],
+      "imgPath": ""
+    },
+    {
+      "title": "Jade Regent",
+      "pubDates": {
+        "start": "Aug 2011",
+        "end": "Jan 2012"
+      },
+      "gameDate": 4711,
+      "location": "Minkai, Tian Xia",
+      "endLevel": "",
+      "desc": "",
+      "uniqueMechanics": ["Caravan System"],
+      "imgPath": ""
+    },
+    {
+      "title": "Skull & Shackles",
+      "pubDates": {
+        "start": "Feb 2012",
+        "end": "Jul 2012"
+      },
+      "gameDate": 4712,
+      "location": "The Shackles",
+      "endLevel": 15,
+      "desc": "Piratical adventure on the high seas of Golarion",
+      "uniqueMechanics": ["Ship Combat", "Fleet Combat", "Plunder"],
+      "imgPath": ""
+    },
+    {
+      "title": "Shattered Star",
+      "pubDates": {
+        "start": "Aug 2012",
+        "end": "Jan 2013"
+      },
+      "gameDate": 4712,
+      "location": "Varisia",
+      "endLevel": 17,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Reign of Winter",
+      "pubDates": {
+        "start": "Feb 2013",
+        "end": "Jul 2013"
+      },
+      "gameDate": 4713,
+      "location": "Irrisen",
+      "endLevel": "",
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Wrath of the Righteous",
+      "pubDates": {
+        "start": "Aug 2013",
+        "end": "Jan 2014"
+      },
+      "gameDate": 4713,
+      "location": "Worldwound",
+      "endLevel": 20,
+      "desc": "",
+      "uniqueMechanics": ["Mythic Levels"],
+      "imgPath": ""
+    },
+    {
+      "title": "Mummy's Mask",
+      "pubDates": {
+        "start": "Feb 2014",
+        "end": "Jul 2014"
+      },
+      "gameDate": 4714,
+      "location": "Osirion",
+      "endLevel": 17,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Iron Gods",
+      "pubDates": {
+        "start": "Aug 2014",
+        "end": "Jan 2015"
+      },
+      "gameDate": 4714,
+      "location": "Numeria",
+      "endLevel": 17,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Giant Slayer",
+      "pubDates": {
+        "start": "Feb 2015",
+        "end": "Jul 2015"
+      },
+      "gameDate": 4715,
+      "location": "Hold of Belkzen",
+      "endLevel": "",
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Hell's Rebels",
+      "pubDates": {
+        "start": "Aug 2015",
+        "end": "Jan 2016"
+      },
+      "gameDate": 4715,
+      "location": "Ravounel",
+      "endLevel": 17,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Hell's Vengeance",
+      "pubDates": {
+        "start": "Feb 2016",
+        "end": "Aug 2016"
+      },
+      "gameDate": 4716,
+      "location": "Cheliax",
+      "endLevel": 17,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Strange Aeons",
+      "pubDates": {
+        "start": "Aug 2016",
+        "end": "Feb 2017"
+      },
+      "gameDate": 4716,
+      "location": "Ustalav; Taldor; Carcosa",
+      "endLevel": 17,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Ironfang Invasion",
+      "pubDates": {
+        "start": "Mar 2017",
+        "end": "Jul 2017"
+      },
+      "gameDate": 4717,
+      "location": "Nirmathas; The Darklands",
+      "endLevel": 18,
+      "desc": "",
+      "uniqueMechanics": ["Guerrilla Warfare"],
+      "imgPath": ""
+    },
+    {
+      "title": "Ruins of Azlant",
+      "pubDates": {
+        "start": "Aug 2017",
+        "end": "Jan 2018"
+      },
+      "gameDate": 4717,
+      "location": "Azlant; Old Azlant",
+      "endLevel": 17,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "War for the Crown",
+      "pubDates": {
+        "start": "Feb 2018",
+        "end": "Jul 2018"
+      },
+      "gameDate": 4718,
+      "location": "Taldor",
+      "endLevel": 18,
+      "desc": "",
+      "uniqueMechanics": [
+        "Cult of Personality",
+        "Verbal Duels",
+        "Social Engineering"
+      ],
+      "imgPath": ""
+    },
+    {
+      "title": "Return of the Runelords",
+      "pubDates": {
+        "start": "Aug 2018",
+        "end": "Jan 2019"
+      },
+      "gameDate": 4718,
+      "location": "Varisia",
+      "endLevel": 20,
+      "desc": "",
+      "uniqueMechanics": ["Mythic Opponents"],
+      "imgPath": ""
+    },
+    {
+      "title": "Tyrant's Grasp",
+      "pubDates": {
+        "start": "Feb 2019",
+        "end": "Aug 2019"
+      },
+      "gameDate": 4719,
+      "location": "Lastwall",
+      "endLevel": 18,
+      "desc": "",
+      "uniqueMechanics": [""],
+      "imgPath": ""
+    },
+    {
+      "title": "Ren's Custom AP",
+      "pubDates": {
+        "start": "Oct 2022",
+        "end": "???"
+      },
+      "gameDate": 4722,
+      "location": "Westmarches",
+      "endLevel": "12th",
+      "desc": "Dungeon-delving, unravelling conspiracies and defending the Westmarches from an invasion from within!",
+      "uniqueMechanics": ["Mass Combat", "Faction Reputation"],
+      "imgPath": ""
+    }
+  ]
+}

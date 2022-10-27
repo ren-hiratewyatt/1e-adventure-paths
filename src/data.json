@@ -10,8 +10,8 @@
       "location": "Varisia",
       "endLevel": 18,
       "desc": "",
-      "uniqueMechanics": "",
-      "imgPath": ""
+      "uniqueMechanics": null,
+      "imgPath": "https://pathfinderwiki.com/w/images/1/14/Rise_of_the_Runelords_Anniversary_Edition.jpg"
     },
     {
       "title": "Curse of the Crimson Throne",
@@ -23,8 +23,8 @@
       "location": "Varisia",
       "endLevel": 18,
       "desc": "",
-      "uniqueMechanics": [""],
-      "imgPath": ""
+      "uniqueMechanics": null,
+      "imgPath": "https://pathfinderwiki.com/w/images/c/cc/Curse_of_the_Crimson_Throne_%28Pathfinder_RPG_hardcover%29.jpg"
     },
     {
       "title": "Second Darkness",
@@ -37,7 +37,7 @@
       "endLevel": 15,
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/thumb/2/20/Second_Darkness_Companion.jpg/453px-Second_Darkness_Companion.jpg"
     },
     {
       "title": "Legacy of Fire",
@@ -50,7 +50,7 @@
       "endLevel": 15,
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/c/ca/LoF_Player%27s_Guide.jpg"
     },
     {
       "title": "Council of Thieves",
@@ -63,7 +63,7 @@
       "endLevel": 13,
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/wiki/File:Council_of_Thieves_Player%27s_Guide.jpg"
     },
     {
       "title": "Kingmaker",
@@ -76,7 +76,7 @@
       "endLevel": 17,
       "desc": "",
       "uniqueMechanics": ["Kingdom Management"],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/f/f1/War_of_the_River_Kings.jpg"
     },
     {
       "title": "Serpent's Skull",
@@ -89,7 +89,7 @@
       "endLevel": 17,
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/5/5b/Serpent%27s_Skull_Player%27s_Guide.jpg"
     },
     {
       "title": "Carrion Crown",
@@ -102,7 +102,7 @@
       "endLevel": 15,
       "desc": "",
       "uniqueMechanics": ["Harrow Card Hero Points"],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/4/42/Carrion_Crown_Player%27s_Guide_cover.jpg"
     },
     {
       "title": "Jade Regent",
@@ -115,7 +115,7 @@
       "endLevel": "",
       "desc": "",
       "uniqueMechanics": ["Caravan System"],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/7/76/Forest_of_Spirits.jpg"
     },
     {
       "title": "Skull & Shackles",
@@ -128,7 +128,7 @@
       "endLevel": 15,
       "desc": "Piratical adventure on the high seas of Golarion",
       "uniqueMechanics": ["Ship Combat", "Fleet Combat", "Plunder"],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/f/f7/Skull_%26_Shackles_Player%27s_Guide.jpg"
     },
     {
       "title": "Shattered Star",
@@ -141,7 +141,7 @@
       "endLevel": 17,
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/8/8e/Shards_of_Sin.jpg"
     },
     {
       "title": "Reign of Winter",
@@ -154,7 +154,7 @@
       "endLevel": "",
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/b/be/The_Witch_Queen%27s_Revenge.jpg"
     },
     {
       "title": "Wrath of the Righteous",
@@ -167,7 +167,7 @@
       "endLevel": 20,
       "desc": "",
       "uniqueMechanics": ["Mythic Levels"],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/b/b0/Sword_of_Valor.jpg"
     },
     {
       "title": "Mummy's Mask",
@@ -180,7 +180,7 @@
       "endLevel": 17,
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/6/61/Pyramid_of_the_Sky_Pharaoh.jpg"
     },
     {
       "title": "Iron Gods",
@@ -193,10 +193,10 @@
       "endLevel": 17,
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/3/3d/Iron_Gods_Player%27s_Guide.jpg"
     },
     {
-      "title": "Giant Slayer",
+      "title": "Giantslayer",
       "pubDates": {
         "start": "Feb 2015",
         "end": "Jul 2015"
@@ -206,7 +206,7 @@
       "endLevel": "",
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/e/e3/Shadow_of_the_Storm_Tyrant.jpg"
     },
     {
       "title": "Hell's Rebels",
@@ -219,7 +219,7 @@
       "endLevel": 17,
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/a/a7/Turn_of_the_Torrent.jpg"
     },
     {
       "title": "Hell's Vengeance",
@@ -230,9 +230,9 @@
       "gameDate": 4716,
       "location": "Cheliax",
       "endLevel": 17,
-      "desc": "",
+      "desc": "Play the villains for once as you and your party seek to enforce the rightful rule of the Thrice-Damned Throne of Cheliax!",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/e/ec/Hell_Comes_to_Westcrown.jpg"
     },
     {
       "title": "Strange Aeons",
@@ -245,7 +245,7 @@
       "endLevel": 17,
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/3/33/What_Grows_Within.jpg"
     },
     {
       "title": "Ironfang Invasion",
@@ -258,7 +258,7 @@
       "endLevel": 18,
       "desc": "",
       "uniqueMechanics": ["Guerrilla Warfare"],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/8/87/Trail_of_the_Hunted.jpg"
     },
     {
       "title": "Ruins of Azlant",
@@ -267,11 +267,11 @@
         "end": "Jan 2018"
       },
       "gameDate": 4717,
-      "location": "Azlant; Old Azlant",
+      "location": "Azlant",
       "endLevel": 17,
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/5/5b/The_Flooded_Cathedral.jpg"
     },
     {
       "title": "War for the Crown",
@@ -288,7 +288,7 @@
         "Verbal Duels",
         "Social Engineering"
       ],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/a/aa/The_Twilight_Child.jpg"
     },
     {
       "title": "Return of the Runelords",
@@ -301,7 +301,7 @@
       "endLevel": 20,
       "desc": "",
       "uniqueMechanics": ["Mythic Opponents"],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/4/4e/Rise_of_New_Thassilon.jpg"
     },
     {
       "title": "Tyrant's Grasp",
@@ -314,7 +314,7 @@
       "endLevel": 18,
       "desc": "",
       "uniqueMechanics": [""],
-      "imgPath": ""
+      "imgPath": "https://pathfinderwiki.com/w/images/d/d6/The_Dead_Roads.jpg"
     },
     {
       "title": "Ren's Custom AP",
@@ -327,7 +327,7 @@
       "endLevel": "12th",
       "desc": "Dungeon-delving, unravelling conspiracies and defending the Westmarches from an invasion from within!",
       "uniqueMechanics": ["Mass Combat", "Faction Reputation"],
-      "imgPath": ""
+      "imgPath": "http://3.bp.blogspot.com/-HkkLpEAU9AI/VLNXrd5deEI/AAAAAAAACdM/_-PZTnCuFcg/s1600/spotlight_156.jpg"
     }
   ]
 }

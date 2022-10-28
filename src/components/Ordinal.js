@@ -1,3 +1,3 @@
-const Ordinal = () => {}
+const Ordinal = (props) => {}
 
 export default Ordinal

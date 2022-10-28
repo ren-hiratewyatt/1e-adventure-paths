@@ -313,7 +313,7 @@
       "location": "Lastwall",
       "endLevel": 18,
       "desc": "Having cheated death itself, the heroes awaken to find that the Lich King Tar-Baphon has escaped his confinement. And now, the Whispering Tyrant seeks to a wield a superweapon the likes of which has never before been seen. Can a brave group of heroes save Lastwall from the Tyrant's Grasp?",
-      "uniqueMechanics": [""],
+      "uniqueMechanics": null,
       "imgPath": "https://pathfinderwiki.com/w/images/d/d6/The_Dead_Roads.jpg"
     },
     {

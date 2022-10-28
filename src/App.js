@@ -11,7 +11,7 @@ const App = () => {
     <div className="App">
       <h1>Pathfinder Adventure Paths</h1>
       {data.map((aps) => (
-        <Spotlight key={aps.id} />
+        <Spotlight key={aps.id} aps={aps} />
       ))}
     </div>
   )

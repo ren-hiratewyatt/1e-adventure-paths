@@ -1,9 +1,10 @@
 import React from 'react'
 
-const Spotlight = () => {
+const Spotlight = (props) => {
   return (
     <div className="book">
-      <h2>Title: </h2>
+      <img className="coverImg" src={props.aps.imgPath} />
+      <h2>{props.aps.title}</h2>
     </div>
   )
 }

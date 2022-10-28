@@ -1,6 +1,7 @@
 {
   "adventurePaths": [
     {
+      "id": "08070108",
       "title": "Rise of the Runelords",
       "pubDates": {
         "start": "Aug 2007",
@@ -14,6 +15,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/1/14/Rise_of_the_Runelords_Anniversary_Edition.jpg"
     },
     {
+      "id": "02080708",
       "title": "Curse of the Crimson Throne",
       "pubDates": {
         "start": "Feb 2008",
@@ -27,6 +29,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/c/cc/Curse_of_the_Crimson_Throne_%28Pathfinder_RPG_hardcover%29.jpg"
     },
     {
+      "id": "08080109",
       "title": "Second Darkness",
       "pubDates": {
         "start": "Aug 2008",
@@ -40,6 +43,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/thumb/2/20/Second_Darkness_Companion.jpg/453px-Second_Darkness_Companion.jpg"
     },
     {
+      "id": "02090709",
       "title": "Legacy of Fire",
       "pubDates": {
         "start": "Feb 2009",
@@ -53,6 +57,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/c/ca/LoF_Player%27s_Guide.jpg"
     },
     {
+      "id": "08090110",
       "title": "Council of Thieves",
       "pubDates": {
         "start": "Aug 2009",
@@ -66,6 +71,7 @@
       "imgPath": "https://pathfinderwiki.com/wiki/File:Council_of_Thieves_Player%27s_Guide.jpg"
     },
     {
+      "id": "02100710",
       "title": "Kingmaker",
       "pubDates": {
         "start": "Feb 2010",
@@ -79,6 +85,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/f/f1/War_of_the_River_Kings.jpg"
     },
     {
+      "id": "08100111",
       "title": "Serpent's Skull",
       "pubDates": {
         "start": "Aug 2010",
@@ -92,6 +99,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/5/5b/Serpent%27s_Skull_Player%27s_Guide.jpg"
     },
     {
+      "id": "02110711",
       "title": "Carrion Crown",
       "pubDates": {
         "start": "Feb 2011",
@@ -105,6 +113,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/4/42/Carrion_Crown_Player%27s_Guide_cover.jpg"
     },
     {
+      "id": "08110112",
       "title": "Jade Regent",
       "pubDates": {
         "start": "Aug 2011",
@@ -118,6 +127,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/7/76/Forest_of_Spirits.jpg"
     },
     {
+      "id": "02120712",
       "title": "Skull & Shackles",
       "pubDates": {
         "start": "Feb 2012",
@@ -131,6 +141,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/f/f7/Skull_%26_Shackles_Player%27s_Guide.jpg"
     },
     {
+      "id": "08120113",
       "title": "Shattered Star",
       "pubDates": {
         "start": "Aug 2012",
@@ -144,6 +155,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/8/8e/Shards_of_Sin.jpg"
     },
     {
+      "id": "02130713",
       "title": "Reign of Winter",
       "pubDates": {
         "start": "Feb 2013",
@@ -157,6 +169,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/b/be/The_Witch_Queen%27s_Revenge.jpg"
     },
     {
+      "id": "08130114",
       "title": "Wrath of the Righteous",
       "pubDates": {
         "start": "Aug 2013",
@@ -170,6 +183,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/b/b0/Sword_of_Valor.jpg"
     },
     {
+      "id": "02140714",
       "title": "Mummy's Mask",
       "pubDates": {
         "start": "Feb 2014",
@@ -183,6 +197,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/6/61/Pyramid_of_the_Sky_Pharaoh.jpg"
     },
     {
+      "id": "08140115",
       "title": "Iron Gods",
       "pubDates": {
         "start": "Aug 2014",
@@ -196,6 +211,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/3/3d/Iron_Gods_Player%27s_Guide.jpg"
     },
     {
+      "id": "02140715",
       "title": "Giantslayer",
       "pubDates": {
         "start": "Feb 2015",
@@ -209,6 +225,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/e/e3/Shadow_of_the_Storm_Tyrant.jpg"
     },
     {
+      "id": "08150116",
       "title": "Hell's Rebels",
       "pubDates": {
         "start": "Aug 2015",
@@ -222,6 +239,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/a/a7/Turn_of_the_Torrent.jpg"
     },
     {
+      "id": "02160816",
       "title": "Hell's Vengeance",
       "pubDates": {
         "start": "Feb 2016",
@@ -235,6 +253,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/e/ec/Hell_Comes_to_Westcrown.jpg"
     },
     {
+      "id": "08160217",
       "title": "Strange Aeons",
       "pubDates": {
         "start": "Aug 2016",
@@ -248,6 +267,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/3/33/What_Grows_Within.jpg"
     },
     {
+      "id": "03170817",
       "title": "Ironfang Invasion",
       "pubDates": {
         "start": "Mar 2017",
@@ -261,6 +281,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/8/87/Trail_of_the_Hunted.jpg"
     },
     {
+      "id": "08170118",
       "title": "Ruins of Azlant",
       "pubDates": {
         "start": "Aug 2017",
@@ -274,6 +295,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/5/5b/The_Flooded_Cathedral.jpg"
     },
     {
+      "id": "02180718",
       "title": "War for the Crown",
       "pubDates": {
         "start": "Feb 2018",
@@ -291,6 +313,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/a/aa/The_Twilight_Child.jpg"
     },
     {
+      "id": "08180119",
       "title": "Return of the Runelords",
       "pubDates": {
         "start": "Aug 2018",
@@ -304,6 +327,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/4/4e/Rise_of_New_Thassilon.jpg"
     },
     {
+      "id": "02190819",
       "title": "Tyrant's Grasp",
       "pubDates": {
         "start": "Feb 2019",
@@ -317,6 +341,7 @@
       "imgPath": "https://pathfinderwiki.com/w/images/d/d6/The_Dead_Roads.jpg"
     },
     {
+      "id": "03010301",
       "title": "Diablo 2 Conversion",
       "pubDates": {
         "start": "Mar 2001",
@@ -334,6 +359,7 @@
       "imgPath": ""
     },
     {
+      "id": "10221022",
       "title": "Ren's Custom AP",
       "pubDates": {
         "start": "Oct 2022",

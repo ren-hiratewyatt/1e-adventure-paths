@@ -1,3 +1,12 @@
 body{
   margin: 0;
 }
+
+.book{
+  border: 3px solid black;
+  width: 750px;
+}
+
+.coverImg{
+  height: 500px;
+}

@@ -2,11 +2,10 @@ import './App.css'
 import data from './data.json'
 import Spotlight from './components/Spotlight'
 
-let testArryay = ['One', 'Two', 'Three']
-
 const App = () => {
-  console.log(Array.isArray(data))
-  console.log(data)
+  console.log(Array.isArray(data[0].uniqueMechanics))
+  console.log(data[0].uniqueMechanics)
+  //  console.log(data[0].endLevel)
   return (
     <div className="App">
       <h1>Pathfinder Adventure Paths</h1>

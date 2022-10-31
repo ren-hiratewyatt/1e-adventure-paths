@@ -8,7 +8,7 @@ const App = () => {
   //  console.log(data[0].endLevel)
   return (
     <div className="App">
-      <h1>Pathfinder Adventure Paths</h1>
+      <h1 className="header">Pathfinder Adventure Paths</h1>
       {data.map((aps) => (
         <Spotlight key={aps.id} aps={aps} />
       ))}

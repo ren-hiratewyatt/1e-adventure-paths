@@ -14,7 +14,7 @@ const Spotlight = (props) => {
       <p className="description">{props.aps.desc}</p>
       <Ordinal endLvl={props.aps.endLevel} />
       <div className="mechanics">
-        <h3>Unique Mechanics</h3>
+        <h3 className="mechHeader">Unique Mechanics</h3>
         {props.aps.uniqueMechanics.map((mechs) => (
           <Mechanics key={props.aps.uniqueMechanics.id} mechs={mechs} />
         ))}

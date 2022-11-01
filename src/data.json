@@ -11,10 +11,11 @@
     "endLevel": 18,
     "desc": "thought gone forever, the ancient Runelords threaten to return to Golarion and shackle the world to their despotic dominion once again!",
     "uniqueMechanics": [
-      { "id": "001", "name": "Sin and Virtue" },
-      { "id": "002", "name": "Thassalonian Rune Magic" }
+      { "id": "001", "name": "Sin and Virtue", "subpage": "" },
+      { "id": "002", "name": "Thassalonian Rune Magic", "subpage": "" }
     ],
-    "imgPath": "https://pathfinderwiki.com/w/images/1/14/Rise_of_the_Runelords_Anniversary_Edition.jpg"
+    "imgPath": "https://pathfinderwiki.com/w/images/1/14/Rise_of_the_Runelords_Anniversary_Edition.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Rise_of_the_Runelords"
   },
   {
     "id": "02080708",
@@ -27,8 +28,11 @@
     "location": "Varisia",
     "endLevel": 18,
     "desc": "thrown into chaos by the death of a King, the bold adventurers must stop the spread of tyranny from Queen Ileosa, lest all of Korvosa be crushed by her iron-fisted ambitions.",
-    "uniqueMechanics": [{ "id": "003", "name": "Countering a Plague" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/c/cc/Curse_of_the_Crimson_Throne_%28Pathfinder_RPG_hardcover%29.jpg"
+    "uniqueMechanics": [
+      { "id": "003", "name": "Countering a Plague", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/c/cc/Curse_of_the_Crimson_Throne_%28Pathfinder_RPG_hardcover%29.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Curse_of_the_Crimson_Throne"
   },
   {
     "id": "08080109",
@@ -41,8 +45,9 @@
     "location": "Varisia",
     "endLevel": 15,
     "desc": "the drow beneath Varisia scheme and plot, and far above in the skies, a dark shadow lurks, which many fear is a portent of coming doom. Can the players stp the drow before a Second Darkness falls upon the earth?",
-    "uniqueMechanics": [{ "id": "004", "name": "Innkeeping" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/thumb/2/20/Second_Darkness_Companion.jpg/453px-Second_Darkness_Companion.jpg"
+    "uniqueMechanics": [{ "id": "004", "name": "Innkeeping", "subpage": "" }],
+    "imgPath": "https://pathfinderwiki.com/w/images/thumb/2/20/Second_Darkness_Companion.jpg/453px-Second_Darkness_Companion.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Second_Darkness"
   },
   {
     "id": "02090709",
@@ -55,8 +60,11 @@
     "location": "Katapesh",
     "endLevel": 15,
     "desc": "long ago two warring armies of genies fought on the slops of the Pale Mountain. Long forgotten, one potent efreeti seeks to pick up where the war left off!",
-    "uniqueMechanics": [{ "id": "005", "name": "City Liberation" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/c/ca/LoF_Player%27s_Guide.jpg"
+    "uniqueMechanics": [
+      { "id": "005", "name": "City Liberation", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/c/ca/LoF_Player%27s_Guide.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Legacy_of_Fire"
   },
   {
     "id": "08090110",
@@ -69,8 +77,11 @@
     "location": "Cheliax",
     "endLevel": 13,
     "desc": "in the Chelish capital of Westcrown, strange beasts of shadow prowl the streets after nightfall. At the same time, the head of the city's ubiquitous crime syndicate - The Council of the Thieves - has grown unstable, and a new power is determined to take over. Even if it means burning Westcrown to the ground!",
-    "uniqueMechanics": [{ "id": "006", "name": "Fame and Popularity" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/4/40/Council_of_Thieves_Player%27s_Guide.jpg"
+    "uniqueMechanics": [
+      { "id": "006", "name": "Fame and Popularity", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/4/40/Council_of_Thieves_Player%27s_Guide.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Council_of_Thieves_(adventure_path)"
   },
   {
     "id": "02100710",
@@ -83,8 +94,11 @@
     "location": "Stolen Lands",
     "endLevel": 17,
     "desc": "the land rush is on! Sent south by Brevoy, the heroes have an unenviable task of venturing into the Stolen Lands and annexing the territories - but does a ragtag band of adventurers have what it takes to found and defend a burgeoning kingdom from the terrors of the wild?",
-    "uniqueMechanics": [{ "id": "007", "name": "Kingdom Management" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/f/f1/War_of_the_River_Kings.jpg"
+    "uniqueMechanics": [
+      { "id": "007", "name": "Kingdom Management", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/f/f1/War_of_the_River_Kings.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Kingmaker_(adventure_path)"
   },
   {
     "id": "08100111",
@@ -98,10 +112,11 @@
     "endLevel": 17,
     "desc": "deep in the southern jungles, a fantastic city of wonders lies ruined and forgotten by the outside world, ripe for plundering and exploration by the heroes. Of course, nothing in the jungle is as easy as it seems. For once they arrive, the heroes discover that the city may be lost, but it is not uninhabited...",
     "uniqueMechanics": [
-      { "id": "008", "name": "Expedition Management" },
-      { "id": "009", "name": "Faction Prestige" }
+      { "id": "008", "name": "Expedition Management", "subpage": "" },
+      { "id": "009", "name": "Faction Prestige", "subpage": "" }
     ],
-    "imgPath": "https://pathfinderwiki.com/w/images/5/5b/Serpent%27s_Skull_Player%27s_Guide.jpg"
+    "imgPath": "https://pathfinderwiki.com/w/images/5/5b/Serpent%27s_Skull_Player%27s_Guide.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Serpent%27s_Skull_(adventure_path)"
   },
   {
     "id": "02110711",
@@ -114,8 +129,11 @@
     "location": "Ustalav",
     "endLevel": 15,
     "desc": "from the whispering shadows of haunted Ustalav an ancient evil rises to grip the world in a new age of horror! Can the heroes discern their allies from their enemies in time to save a tortured realm from a tyrant's return?",
-    "uniqueMechanics": [{ "id": "010", "name": "Harrow Card Hero Points" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/4/42/Carrion_Crown_Player%27s_Guide_cover.jpg"
+    "uniqueMechanics": [
+      { "id": "010", "name": "Harrow Card Hero Points", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/4/42/Carrion_Crown_Player%27s_Guide_cover.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Carrion_Crown"
   },
   {
     "id": "08110112",
@@ -128,8 +146,11 @@
     "location": "Minkai, Tian Xia",
     "endLevel": 16,
     "desc": "when a decades-old secret is exposed, an unassuming local tavern-owner discovers her birthright is to rule one of the ancient Dragon Empires of Tian Xia. Yet the current ruler of this empire, the increasingly cruel Jade Regent, has no intention of giving up his hold over the throne. In order to save Minkai the heroes must escort their friend from Varisia to Tian Xia, and aid her in gaining the trust and support of a nation on the edge of anarchy.",
-    "uniqueMechanics": [{ "id": "011", "name": "Caravan System" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/7/76/Forest_of_Spirits.jpg"
+    "uniqueMechanics": [
+      { "id": "011", "name": "Caravan System", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/7/76/Forest_of_Spirits.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Jade_Regent_(adventure_path)"
   },
   {
     "id": "02120712",
@@ -143,11 +164,13 @@
     "endLevel": 15,
     "desc": "there's adventure to be had on the high seas when a group of press-ganged strangers seizes a ship and becomes embroiled in the plots and politics of the Shackles—an infamous island chain dominated by pirate warlords. But as these new swashbucklers make names for themselves, rival scalawags, enemy navies, legendary sea monsters, and the infamous Hurricane King himself seek to see them walk the plank. Who will survive when there's glory to plunder?",
     "uniqueMechanics": [
-      { "id": "012", "name": "Ship Combat" },
-      { "id": "013", "name": "Fleet Combat" },
-      { "id": "014", "name": "Plunder" }
+      { "id": "012", "name": "Ship Combat", "subpage": "" },
+      { "id": "013", "name": "Fleet Combat", "subpage": "" },
+      { "id": "014", "name": "Plunder", "subpage": "" },
+      { "id": "040", "name": "Infamy and Disrepute", "subpage": "" }
     ],
-    "imgPath": "https://pathfinderwiki.com/w/images/f/f7/Skull_%26_Shackles_Player%27s_Guide.jpg"
+    "imgPath": "https://pathfinderwiki.com/w/images/f/f7/Skull_%26_Shackles_Player%27s_Guide.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Skull_%26_Shackles"
   },
   {
     "id": "08120113",
@@ -160,8 +183,11 @@
     "location": "Varisia",
     "endLevel": 17,
     "desc": "the ancient empire of the runelords may be long dead, yet the legacy of Thassilon continues to haunt the frontier realm of Varisia. When agents of the newest Pathfinder Society lodge in Magnimar learn of a fragmented artifact scattered throughout the lands of old Thassilon, it falls to a new band of heroes to step in and gather up the seven fragments of this Shattered Star.",
-    "uniqueMechanics": [{ "id": "015", "name": "Faction Prestige" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/8/8e/Shards_of_Sin.jpg"
+    "uniqueMechanics": [
+      { "id": "015", "name": "Faction Prestige", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/8/8e/Shards_of_Sin.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Shattered_Star_(adventure_path)"
   },
   {
     "id": "02130713",
@@ -174,8 +200,9 @@
     "location": "Irrisen",
     "endLevel": 17,
     "desc": "it has been a century since the immortal witch Baba Yaga last visited the world, and the hour draws nigh for her return. After 1,400 years of perpetual winter, the icy curse of Irrisen is spreading! What links do these strange blizzards and swaths of wintry landscapes have with Irrisen, and is there any truth to the growing rumors that the Witch Queen Elvanna has taken full control of the realm? Can her plans for the Inner Sea be thwarted, or will the Reign of Winter engulf the world?",
-    "uniqueMechanics": [{ "id": "016", "name": "" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/b/be/The_Witch_Queen%27s_Revenge.jpg"
+    "uniqueMechanics": [{ "id": "016", "name": "", "subpage": "" }],
+    "imgPath": "https://pathfinderwiki.com/w/images/b/be/The_Witch_Queen%27s_Revenge.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Reign_of_Winter"
   },
   {
     "id": "08130114",
@@ -189,11 +216,12 @@
     "endLevel": 20,
     "desc": "the Worldwound tore reality apart, unleashing a ravenous demonic horde upon the world. Only the Wardstones that stand sentinel along the Worldwound's border, barely manages to contain the demons. So when one of the wardstones is sabotaged, a city falls and the demons within surge out in a massive assault like none before. Can anyone rise up against the demon host to prevent the armies of the demon lord Deskari from swallowing the world?",
     "uniqueMechanics": [
-      { "id": "017", "name": "Mythic Levels" },
-      { "id": "018", "name": "Mass Combat" },
-      { "id": "019", "name": "Redemption" }
+      { "id": "017", "name": "Mythic Levels", "subpage": "" },
+      { "id": "018", "name": "Mass Combat", "subpage": "" },
+      { "id": "019", "name": "Redemption", "subpage": "" }
     ],
-    "imgPath": "https://pathfinderwiki.com/w/images/b/b0/Sword_of_Valor.jpg"
+    "imgPath": "https://pathfinderwiki.com/w/images/b/b0/Sword_of_Valor.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Wrath_of_the_Righteous"
   },
   {
     "id": "02140714",
@@ -206,8 +234,11 @@
     "location": "Osirion",
     "endLevel": 17,
     "desc": "the ancient lands of Osirion are blanketed by the sands of time, and vast riches lay just beneath the sun-blistered surface. Hakotep I, a now-forgotten pharaoh, was robbed upon his burial. A secret sect took his heart and his funerary mask, both containing a portion of his soul. Can the heroes stop a burgeoning cult from rousing this long-dead tyrant into being?",
-    "uniqueMechanics": [{ "id": "020", "name": "Chariot Combat" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/6/61/Pyramid_of_the_Sky_Pharaoh.jpg"
+    "uniqueMechanics": [
+      { "id": "020", "name": "Chariot Combat", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/6/61/Pyramid_of_the_Sky_Pharaoh.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Mummy%27s_Mask"
   },
   {
     "id": "08140115",
@@ -220,8 +251,11 @@
     "location": "Numeria",
     "endLevel": 17,
     "desc": "Numeria has a long history of mystery and wonder buried; for one night thousands of years ago, the Rain of Stars scarred the land. The fragmented remnants of a ship from beyond the stars fell from the sky, scattering strange technological ruins and deadly perils across the land. The Iron Gods are ready to make their presence known, and if they are not opposed by the region's newest heroes, a scourge unlike any the Inner Sea has seen will arise!",
-    "uniqueMechanics": [{ "id": "021", "name": "Sci Fi Technology" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/3/3d/Iron_Gods_Player%27s_Guide.jpg"
+    "uniqueMechanics": [
+      { "id": "021", "name": "Sci Fi Technology", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/3/3d/Iron_Gods_Player%27s_Guide.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Iron_Gods_(adventure_path)"
   },
   {
     "id": "02140715",
@@ -234,8 +268,9 @@
     "location": "Hold of Belkzen",
     "endLevel": 17,
     "desc": "deep in the Mindspin Mountains, a storm giant warlord known as the Storm Tyrant has seized control of a cloud castle and an Orb of Dragonkind, and is gathering an army of giants from across western world. Can the giant army be defeated before it can conquer the human lands of the Inner Sea, or will all of Avistan bow down in fealty to the Storm Tyrant?",
-    "uniqueMechanics": [{ "id": "022", "name": "Resolve" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/e/e3/Shadow_of_the_Storm_Tyrant.jpg"
+    "uniqueMechanics": [{ "id": "022", "name": "Resolve", "subpage": "" }],
+    "imgPath": "https://pathfinderwiki.com/w/images/e/e3/Shadow_of_the_Storm_Tyrant.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Giantslayer"
   },
   {
     "id": "08150116",
@@ -249,10 +284,11 @@
     "endLevel": 17,
     "desc": "the city of Kintargo has a new lord-mayor, but he's not someone interested in maintaining that city's free spirit. Can a small group of heroes and would-be rebels stand against the might of the Thrice-Damned House of Thrune and the Church of Asmodeus and save their home town from being crushed under the boot of an infernal tyrant? ",
     "uniqueMechanics": [
-      { "id": "023", "name": "Formenting Rebellion" },
-      { "id": "024", "name": "Team Organization" }
+      { "id": "023", "name": "Formenting Rebellion", "subpage": "" },
+      { "id": "024", "name": "Team Organization", "subpage": "" }
     ],
-    "imgPath": "https://pathfinderwiki.com/w/images/a/a7/Turn_of_the_Torrent.jpg"
+    "imgPath": "https://pathfinderwiki.com/w/images/a/a7/Turn_of_the_Torrent.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Hell%27s_Rebels"
   },
   {
     "id": "02160816",
@@ -266,9 +302,10 @@
     "endLevel": 17,
     "desc": "under the leadership of a zealous paladin, a new knightly order seeks to purge Cheliax of its diabolical taint by overthrowing the House of Thrune and reclaim the country for its people. Will the wicked antiheroes quell dissent and uphold the infernal laws of Cheliax and its diabolic rulers, or will the heroic knights succeed and overthrow the rule of the Thrice-Damned Throne?",
     "uniqueMechanics": [
-      { "id": "025", "name": "Counter-Revolutionary Actions" }
+      { "id": "025", "name": "Counter-Revolutionary Actions", "subpage": "" }
     ],
-    "imgPath": "https://pathfinderwiki.com/w/images/e/ec/Hell_Comes_to_Westcrown.jpg"
+    "imgPath": "https://pathfinderwiki.com/w/images/e/ec/Hell_Comes_to_Westcrown.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Hell%27s_Vengeance"
   },
   {
     "id": "08160217",
@@ -282,10 +319,11 @@
     "endLevel": 17,
     "desc": "can the adventures reclaim lost memories in time to stop the advance of a cataclysmic contagion that could threaten all of Golarion? Can they resist the mind-shattering truths revealed by the Yellow Sign, and the monstrous force it symbolizes?",
     "uniqueMechanics": [
-      { "id": "026", "name": "Dreams" },
-      { "id": "027", "name": "Insanity and Madness" }
+      { "id": "026", "name": "Dreams", "subpage": "" },
+      { "id": "027", "name": "Insanity and Madness", "subpage": "" }
     ],
-    "imgPath": "https://pathfinderwiki.com/w/images/3/33/What_Grows_Within.jpg"
+    "imgPath": "https://pathfinderwiki.com/w/images/3/33/What_Grows_Within.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Strange_Aeons"
   },
   {
     "id": "03170817",
@@ -298,8 +336,11 @@
     "location": "Nirmathas; The Darklands",
     "endLevel": 18,
     "desc": "when the PCs witness their hometown destroyed in the first steps of an all-out war of conquest, they begin a quest that leads them from desperate survival to heroes of legend as they push back against the monstrous Ironfang Legion. Can a small band of refugees grow into champion or will the Ironfang Invasion give way to an Ironfang nation?",
-    "uniqueMechanics": [{ "id": "028", "name": "Guerrilla Warfare" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/8/87/Trail_of_the_Hunted.jpg"
+    "uniqueMechanics": [
+      { "id": "028", "name": "Guerrilla Warfare", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/8/87/Trail_of_the_Hunted.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Ironfang_Invasion_(adventure_path)"
   },
   {
     "id": "08170118",
@@ -312,8 +353,11 @@
     "location": "Azlant",
     "endLevel": 17,
     "desc": "a hopeful expedition has established a colony on one of the nearest islands across the sea, but danger has struck the fledgling settlement. An ancient enemy was accidentally released from its prison and has resumed its millennium-old machinations to punish the hubris of humanity once again. Can the adventurers survive in a faraway land and track down this enigmatic being before its sinister plans can come to fruition?",
-    "uniqueMechanics": [{ "id": "029", "name": "Colony Management" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/5/5b/The_Flooded_Cathedral.jpg"
+    "uniqueMechanics": [
+      { "id": "029", "name": "Colony Management", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/5/5b/The_Flooded_Cathedral.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Ruins_of_Azlant_(adventure_path)"
   },
   {
     "id": "02180718",
@@ -327,11 +371,12 @@
     "endLevel": 18,
     "desc": "as the political scene in Taldor explodes into chaos, players take the roles of agents, advocates and saboteurs working for Princess Eutropia to help secure her claim to the throne and prevent the nation from collapsing into civil war.",
     "uniqueMechanics": [
-      { "id": "030", "name": "Cult of Personality" },
-      { "id": "031", "name": "Verbal Duels" },
-      { "id": "032", "name": "Social Combat" }
+      { "id": "030", "name": "Cult of Personality", "subpage": "" },
+      { "id": "031", "name": "Verbal Duels", "subpage": "" },
+      { "id": "032", "name": "Social Combat", "subpage": "" }
     ],
-    "imgPath": "https://pathfinderwiki.com/w/images/a/aa/The_Twilight_Child.jpg"
+    "imgPath": "https://pathfinderwiki.com/w/images/a/aa/The_Twilight_Child.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/War_for_the_Crown"
   },
   {
     "id": "08180119",
@@ -344,8 +389,11 @@
     "location": "Varisia",
     "endLevel": 20,
     "desc": "the all-powerful Runelords, near-immortal wizards who ruled Varisia in ancient days, stir to terrible life once more, surging across the frontier with plans to reignite their time-lost empire.",
-    "uniqueMechanics": [{ "id": "033", "name": "Mythic Opponents" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/4/4e/Rise_of_New_Thassilon.jpg"
+    "uniqueMechanics": [
+      { "id": "033", "name": "Mythic Opponents", "subpage": "" }
+    ],
+    "imgPath": "https://pathfinderwiki.com/w/images/4/4e/Rise_of_New_Thassilon.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Return_of_the_Runelords"
   },
   {
     "id": "02190819",
@@ -358,8 +406,9 @@
     "location": "Lastwall",
     "endLevel": 18,
     "desc": "having cheated death itself, the heroes awaken to find that the Lich King Tar-Baphon has escaped his confinement. And now, the Whispering Tyrant seeks to a wield a superweapon the likes of which has never before been seen. Can a brave group of heroes save Lastwall from the Tyrant's Grasp?",
-    "uniqueMechanics": [{ "id": "034", "name": "" }],
-    "imgPath": "https://pathfinderwiki.com/w/images/d/d6/The_Dead_Roads.jpg"
+    "uniqueMechanics": [{ "id": "034", "name": "", "subpage": "" }],
+    "imgPath": "https://pathfinderwiki.com/w/images/d/d6/The_Dead_Roads.jpg",
+    "wikiLink": "https://pathfinderwiki.com/wiki/Tyrant%27s_Grasp_(adventure_path)"
   },
   {
     "id": "03010301",
@@ -373,11 +422,12 @@
     "endLevel": 20,
     "desc": "Diablo has returned, and in an adventure that spans the entirety of Sanctuary, the players must put a stop to the Prime Evil's plans, even going so far as to venture into Hell itself it stop him. ",
     "uniqueMechanics": [
-      { "id": "035", "name": "Random Encounters" },
-      { "id": "036", "name": "Dynamic Map Generation" },
-      { "id": "037", "name": "Unique Classes" }
+      { "id": "035", "name": "Random Encounters", "subpage": "" },
+      { "id": "036", "name": "Dynamic Map Generation", "subpage": "" },
+      { "id": "037", "name": "Unique Classes", "subpage": "" }
     ],
-    "imgPath": "https://static.wikia.nocookie.net/diablo/images/a/ac/To_Hell_and_Back.jpg"
+    "imgPath": "https://static.wikia.nocookie.net/diablo/images/a/ac/To_Hell_and_Back.jpg",
+    "wikiLink": ""
   },
   {
     "id": "10221022",
@@ -391,9 +441,10 @@
     "endLevel": 12,
     "desc": "the adventurers will have to venture deep into the labyrinths of the demon-ravaged Slaughtergarde, and uncover the a growing consipiracy that threatens the Westmarches. ",
     "uniqueMechanics": [
-      { "id": "038", "name": "Mass Combat" },
-      { "id": "039", "name": "Faction Prestige" }
+      { "id": "038", "name": "Mass Combat", "subpage": "" },
+      { "id": "039", "name": "Faction Prestige", "subpage": "" }
     ],
-    "imgPath": "http://3.bp.blogspot.com/-HkkLpEAU9AI/VLNXrd5deEI/AAAAAAAACdM/_-PZTnCuFcg/s1600/spotlight_156.jpg"
+    "imgPath": "http://3.bp.blogspot.com/-HkkLpEAU9AI/VLNXrd5deEI/AAAAAAAACdM/_-PZTnCuFcg/s1600/spotlight_156.jpg",
+    "wikiLink": ""
   }
 ]

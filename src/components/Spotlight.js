@@ -17,7 +17,7 @@ const Spotlight = (props) => {
       <div className="mechanics">
         <h3 className="mechHeader">Unique Mechanics</h3>
         {props.aps.uniqueMechanics.map((mechs) => (
-          <Mechanics key={props.aps.uniqueMechanics.id} mechs={mechs} />
+          <Mechanics key={mechs.id} mechs={mechs} />
         ))}
       </div>
     </div>

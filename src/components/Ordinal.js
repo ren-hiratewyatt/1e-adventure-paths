@@ -14,7 +14,12 @@ const Ordinal = ({ endLvl }) => {
       ordString = endLvl + 'th'
   }
 
-  return <p className="ordinalStr">End level: {ordString}</p>
+  return (
+    <div className="ordinal">
+      <h3>End Level</h3>
+      <p className="ordinalStr">{ordString}</p>
+    </div>
+  )
 }
 
 export default Ordinal

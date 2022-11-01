@@ -9,7 +9,7 @@
     "gameDate": 4707,
     "location": "Varisia",
     "endLevel": 18,
-    "desc": "Thought gone forever, the ancient Runelords threaten to return to Golarion and shackle the world to their despotic dominion once again!",
+    "desc": "thought gone forever, the ancient Runelords threaten to return to Golarion and shackle the world to their despotic dominion once again!",
     "uniqueMechanics": [
       { "id": "i", "name": "Sin and Virtue" },
       { "id": "ii", "name": "Thassalonian Rune Magic" }
@@ -26,7 +26,7 @@
     "gameDate": 4708,
     "location": "Varisia",
     "endLevel": 18,
-    "desc": "Thrown into chaos by the death of a King, the bold adventurers must stop the spread of tyranny from Queen Ileosa, lest all of Korvosa be crushed by her iron-fisted ambitions.",
+    "desc": "thrown into chaos by the death of a King, the bold adventurers must stop the spread of tyranny from Queen Ileosa, lest all of Korvosa be crushed by her iron-fisted ambitions.",
     "uniqueMechanics": [{ "id": "iii", "name": "Countering a Plague" }],
     "imgPath": "https://pathfinderwiki.com/w/images/c/cc/Curse_of_the_Crimson_Throne_%28Pathfinder_RPG_hardcover%29.jpg"
   },
@@ -40,7 +40,7 @@
     "gameDate": 4708,
     "location": "Varisia",
     "endLevel": 15,
-    "desc": "The drow beneath Varisia scheme and plot, and far above in the skies, a dark shadow lurks, which many fear is a portent of coming doom. Can the players stp the drow before a Second Darkness falls upon the earth?",
+    "desc": "the drow beneath Varisia scheme and plot, and far above in the skies, a dark shadow lurks, which many fear is a portent of coming doom. Can the players stp the drow before a Second Darkness falls upon the earth?",
     "uniqueMechanics": [{ "id": "iv", "name": "Innkeeping" }],
     "imgPath": "https://pathfinderwiki.com/w/images/thumb/2/20/Second_Darkness_Companion.jpg/453px-Second_Darkness_Companion.jpg"
   },
@@ -54,7 +54,7 @@
     "gameDate": 4709,
     "location": "Katapesh",
     "endLevel": 15,
-    "desc": "Long ago two warring armies of genies fought on the slops of the Pale Mountain. Long forgotten, one potent efreeti seeks to pick up where the war left off!",
+    "desc": "long ago two warring armies of genies fought on the slops of the Pale Mountain. Long forgotten, one potent efreeti seeks to pick up where the war left off!",
     "uniqueMechanics": [{ "id": "v", "name": "City Liberation" }],
     "imgPath": "https://pathfinderwiki.com/w/images/c/ca/LoF_Player%27s_Guide.jpg"
   },
@@ -68,7 +68,7 @@
     "gameDate": 4709,
     "location": "Cheliax",
     "endLevel": 13,
-    "desc": "In the Chelish capital of Westcrown, strange beasts of shadow prowl the streets after nightfall. At the same time, the head of the city's ubiquitous crime syndicate - The Council of the Thieves - has grown unstable, and a new power is determined to take over. Even if it means burning Westcrown to the ground!",
+    "desc": "in the Chelish capital of Westcrown, strange beasts of shadow prowl the streets after nightfall. At the same time, the head of the city's ubiquitous crime syndicate - The Council of the Thieves - has grown unstable, and a new power is determined to take over. Even if it means burning Westcrown to the ground!",
     "uniqueMechanics": [{ "id": "vi", "name": "Fame and Popularity" }],
     "imgPath": "https://pathfinderwiki.com/w/images/4/40/Council_of_Thieves_Player%27s_Guide.jpg"
   },
@@ -82,7 +82,7 @@
     "gameDate": 4710,
     "location": "Stolen Lands",
     "endLevel": 17,
-    "desc": "The land rush is on! Sent south by Brevoy, the heroes have an unenviable task of venturing into the Stolen Lands and annexing the territories - but does a ragtag band of adventurers have what it takes to found and defend a burgeoning kingdom from the terrors of the wild?",
+    "desc": "the land rush is on! Sent south by Brevoy, the heroes have an unenviable task of venturing into the Stolen Lands and annexing the territories - but does a ragtag band of adventurers have what it takes to found and defend a burgeoning kingdom from the terrors of the wild?",
     "uniqueMechanics": [{ "id": "vii", "name": "Kingdom Management" }],
     "imgPath": "https://pathfinderwiki.com/w/images/f/f1/War_of_the_River_Kings.jpg"
   },
@@ -96,7 +96,7 @@
     "gameDate": 4710,
     "location": "Sargava; Mwangi Expanse",
     "endLevel": 17,
-    "desc": "Deep in the southern jungles, a fantastic city of wonders lies ruined and forgotten by the outside world, ripe for plundering and exploration by the heroes. Of course, nothing in the jungle is as easy as it seems. For once they arrive, the heroes discover that the city may be lost, but it is not uninhabited...",
+    "desc": "deep in the southern jungles, a fantastic city of wonders lies ruined and forgotten by the outside world, ripe for plundering and exploration by the heroes. Of course, nothing in the jungle is as easy as it seems. For once they arrive, the heroes discover that the city may be lost, but it is not uninhabited...",
     "uniqueMechanics": [
       { "id": "viii", "name": "Expedition Management" },
       { "id": "ix", "name": "Faction Prestige" }
@@ -113,7 +113,7 @@
     "gameDate": 4711,
     "location": "Ustalav",
     "endLevel": 15,
-    "desc": "From the whispering shadows of haunted Ustalav an ancient evil rises to grip the world in a new age of horror! Can the heroes discern their allies from their enemies in time to save a tortured realm from a tyrant's return?",
+    "desc": "from the whispering shadows of haunted Ustalav an ancient evil rises to grip the world in a new age of horror! Can the heroes discern their allies from their enemies in time to save a tortured realm from a tyrant's return?",
     "uniqueMechanics": [{ "id": "x", "name": "Harrow Card Hero Points" }],
     "imgPath": "https://pathfinderwiki.com/w/images/4/42/Carrion_Crown_Player%27s_Guide_cover.jpg"
   },
@@ -127,7 +127,7 @@
     "gameDate": 4711,
     "location": "Minkai, Tian Xia",
     "endLevel": 16,
-    "desc": "When a decades-old secret is exposed, an unassuming local tavern-owner discovers her birthright is to rule one of the ancient Dragon Empires of Tian Xia. Yet the current ruler of this empire, the increasingly cruel Jade Regent, has no intention of giving up his hold over the throne. In order to save Minkai the heroes must escort their friend from Varisia to Tian Xia, and aid her in gaining the trust and support of a nation on the edge of anarchy.",
+    "desc": "when a decades-old secret is exposed, an unassuming local tavern-owner discovers her birthright is to rule one of the ancient Dragon Empires of Tian Xia. Yet the current ruler of this empire, the increasingly cruel Jade Regent, has no intention of giving up his hold over the throne. In order to save Minkai the heroes must escort their friend from Varisia to Tian Xia, and aid her in gaining the trust and support of a nation on the edge of anarchy.",
     "uniqueMechanics": [{ "id": "xi", "name": "Caravan System" }],
     "imgPath": "https://pathfinderwiki.com/w/images/7/76/Forest_of_Spirits.jpg"
   },
@@ -141,7 +141,7 @@
     "gameDate": 4712,
     "location": "The Shackles",
     "endLevel": 15,
-    "desc": "There's adventure to be had on the high seas when a group of press-ganged strangers seizes a ship and becomes embroiled in the plots and politics of the Shackles—an infamous island chain dominated by pirate warlords. But as these new swashbucklers make names for themselves, rival scalawags, enemy navies, legendary sea monsters, and the infamous Hurricane King himself seek to see them walk the plank. Who will survive when there's glory to plunder?",
+    "desc": "there's adventure to be had on the high seas when a group of press-ganged strangers seizes a ship and becomes embroiled in the plots and politics of the Shackles—an infamous island chain dominated by pirate warlords. But as these new swashbucklers make names for themselves, rival scalawags, enemy navies, legendary sea monsters, and the infamous Hurricane King himself seek to see them walk the plank. Who will survive when there's glory to plunder?",
     "uniqueMechanics": [
       { "id": "xii", "name": "Ship Combat" },
       { "id": "xiii", "name": "Fleet Combat" },
@@ -159,7 +159,7 @@
     "gameDate": 4712,
     "location": "Varisia",
     "endLevel": 17,
-    "desc": "The ancient empire of the runelords may be long dead, yet the legacy of Thassilon continues to haunt the frontier realm of Varisia. When agents of the newest Pathfinder Society lodge in Magnimar learn of a fragmented artifact scattered throughout the lands of old Thassilon, it falls to a new band of heroes to step in and gather up the seven fragments of this Shattered Star.",
+    "desc": "the ancient empire of the runelords may be long dead, yet the legacy of Thassilon continues to haunt the frontier realm of Varisia. When agents of the newest Pathfinder Society lodge in Magnimar learn of a fragmented artifact scattered throughout the lands of old Thassilon, it falls to a new band of heroes to step in and gather up the seven fragments of this Shattered Star.",
     "uniqueMechanics": [{ "id": "ix", "name": "Faction Prestige" }],
     "imgPath": "https://pathfinderwiki.com/w/images/8/8e/Shards_of_Sin.jpg"
   },
@@ -173,7 +173,7 @@
     "gameDate": 4713,
     "location": "Irrisen",
     "endLevel": 17,
-    "desc": "It has been a century since the immortal witch Baba Yaga last visited the world, and the hour draws nigh for her return. After 1,400 years of perpetual winter, the icy curse of Irrisen is spreading! What links do these strange blizzards and swaths of wintry landscapes have with Irrisen, and is there any truth to the growing rumors that the Witch Queen Elvanna has taken full control of the realm? Can her plans for the Inner Sea be thwarted, or will the Reign of Winter engulf the world?",
+    "desc": "it has been a century since the immortal witch Baba Yaga last visited the world, and the hour draws nigh for her return. After 1,400 years of perpetual winter, the icy curse of Irrisen is spreading! What links do these strange blizzards and swaths of wintry landscapes have with Irrisen, and is there any truth to the growing rumors that the Witch Queen Elvanna has taken full control of the realm? Can her plans for the Inner Sea be thwarted, or will the Reign of Winter engulf the world?",
     "uniqueMechanics": [{ "id": "empty", "name": "" }],
     "imgPath": "https://pathfinderwiki.com/w/images/b/be/The_Witch_Queen%27s_Revenge.jpg"
   },
@@ -187,7 +187,7 @@
     "gameDate": 4713,
     "location": "Worldwound",
     "endLevel": 20,
-    "desc": "The Worldwound tore reality apart, unleashing a ravenous demonic horde upon the world. Only the Wardstones that stand sentinel along the Worldwound's border, barely manages to contain the demons. So when one of the wardstones is sabotaged, a city falls and the demons within surge out in a massive assault like none before. Can anyone rise up against the demon host to prevent the armies of the demon lord Deskari from swallowing the world?",
+    "desc": "the Worldwound tore reality apart, unleashing a ravenous demonic horde upon the world. Only the Wardstones that stand sentinel along the Worldwound's border, barely manages to contain the demons. So when one of the wardstones is sabotaged, a city falls and the demons within surge out in a massive assault like none before. Can anyone rise up against the demon host to prevent the armies of the demon lord Deskari from swallowing the world?",
     "uniqueMechanics": [
       { "id": "xv", "name": "Mythic Levels" },
       { "id": "xvi", "name": "Mass Combat" },
@@ -205,7 +205,7 @@
     "gameDate": 4714,
     "location": "Osirion",
     "endLevel": 17,
-    "desc": "The ancient lands of Osirion are blanketed by the sands of time, and vast riches lay just beneath the sun-blistered surface. Hakotep I, a now-forgotten pharaoh, was robbed upon his burial. A secret sect took his heart and his funerary mask, both containing a portion of his soul. Can the heroes stop a burgeoning cult from rousing this long-dead tyrant into being?",
+    "desc": "the ancient lands of Osirion are blanketed by the sands of time, and vast riches lay just beneath the sun-blistered surface. Hakotep I, a now-forgotten pharaoh, was robbed upon his burial. A secret sect took his heart and his funerary mask, both containing a portion of his soul. Can the heroes stop a burgeoning cult from rousing this long-dead tyrant into being?",
     "uniqueMechanics": [{ "id": "xviii", "name": "Chariot Combat" }],
     "imgPath": "https://pathfinderwiki.com/w/images/6/61/Pyramid_of_the_Sky_Pharaoh.jpg"
   },
@@ -233,7 +233,7 @@
     "gameDate": 4715,
     "location": "Hold of Belkzen",
     "endLevel": 17,
-    "desc": "Deep in the Mindspin Mountains, a storm giant warlord known as the Storm Tyrant has seized control of a cloud castle and an Orb of Dragonkind, and is gathering an army of giants from across western world. Can the giant army be defeated before it can conquer the human lands of the Inner Sea, or will all of Avistan bow down in fealty to the Storm Tyrant?",
+    "desc": "deep in the Mindspin Mountains, a storm giant warlord known as the Storm Tyrant has seized control of a cloud castle and an Orb of Dragonkind, and is gathering an army of giants from across western world. Can the giant army be defeated before it can conquer the human lands of the Inner Sea, or will all of Avistan bow down in fealty to the Storm Tyrant?",
     "uniqueMechanics": [{ "id": "xx", "name": "Resolve" }],
     "imgPath": "https://pathfinderwiki.com/w/images/e/e3/Shadow_of_the_Storm_Tyrant.jpg"
   },
@@ -247,7 +247,7 @@
     "gameDate": 4715,
     "location": "Ravounel",
     "endLevel": 17,
-    "desc": "The city of Kintargo has a new lord-mayor, but he's not someone interested in maintaining that city's free spirit. Can a small group of heroes and would-be rebels stand against the might of the Thrice-Damned House of Thrune and the Church of Asmodeus and save their home town from being crushed under the boot of an infernal tyrant? ",
+    "desc": "the city of Kintargo has a new lord-mayor, but he's not someone interested in maintaining that city's free spirit. Can a small group of heroes and would-be rebels stand against the might of the Thrice-Damned House of Thrune and the Church of Asmodeus and save their home town from being crushed under the boot of an infernal tyrant? ",
     "uniqueMechanics": [
       { "id": "xii", "name": "Formenting Rebellion" },
       { "id": "xxii", "name": "Team Organization" }
@@ -264,7 +264,7 @@
     "gameDate": 4716,
     "location": "Cheliax",
     "endLevel": 17,
-    "desc": "Under the leadership of a zealous paladin, a new knightly order seeks to purge Cheliax of its diabolical taint by overthrowing the House of Thrune and reclaim the country for its people. Will the wicked antiheroes quell dissent and uphold the infernal laws of Cheliax and its diabolic rulers, or will the heroic knights succeed and overthrow the rule of the Thrice-Damned Throne?",
+    "desc": "under the leadership of a zealous paladin, a new knightly order seeks to purge Cheliax of its diabolical taint by overthrowing the House of Thrune and reclaim the country for its people. Will the wicked antiheroes quell dissent and uphold the infernal laws of Cheliax and its diabolic rulers, or will the heroic knights succeed and overthrow the rule of the Thrice-Damned Throne?",
     "uniqueMechanics": [
       { "id": "xxiii", "name": "Counter-Revolutionary Actions" }
     ],
@@ -280,7 +280,7 @@
     "gameDate": 4716,
     "location": "Ustalav; Taldor; Carcosa",
     "endLevel": 17,
-    "desc": "Can the adventures reclaim lost memories in time to stop the advance of a cataclysmic contagion that could threaten all of Golarion? Can they resist the mind-shattering truths revealed by the Yellow Sign, and the monstrous force it symbolizes?",
+    "desc": "can the adventures reclaim lost memories in time to stop the advance of a cataclysmic contagion that could threaten all of Golarion? Can they resist the mind-shattering truths revealed by the Yellow Sign, and the monstrous force it symbolizes?",
     "uniqueMechanics": [
       { "id": "xxiv", "name": "Dreams" },
       { "id": "xxv", "name": "Insanity and Madness" }
@@ -297,7 +297,7 @@
     "gameDate": 4717,
     "location": "Nirmathas; The Darklands",
     "endLevel": 18,
-    "desc": "When the PCs witness their hometown of Phaendar destroyed in the first steps of an all-out war of conquest, they begin a quest that leads them from desperate survival to heroes of legend as they push back against the monstrous Ironfang Legion. Can a small band of refugees grow into champion or will the Ironfang Invasion give way to an Ironfang nation?",
+    "desc": "when the PCs witness their hometown destroyed in the first steps of an all-out war of conquest, they begin a quest that leads them from desperate survival to heroes of legend as they push back against the monstrous Ironfang Legion. Can a small band of refugees grow into champion or will the Ironfang Invasion give way to an Ironfang nation?",
     "uniqueMechanics": [{ "id": "xxvi", "name": "Guerrilla Warfare" }],
     "imgPath": "https://pathfinderwiki.com/w/images/8/87/Trail_of_the_Hunted.jpg"
   },
@@ -311,7 +311,7 @@
     "gameDate": 4717,
     "location": "Azlant",
     "endLevel": 17,
-    "desc": "A hopeful expedition has established a colony on one of the nearest islands across the sea, but danger has struck the fledgling settlement. An ancient enemy was accidentally released from its prison and has resumed its millennium-old machinations to punish the hubris of humanity once again. Can the adventurers survive in a faraway land and track down this enigmatic being before its sinister plans can come to fruition?",
+    "desc": "a hopeful expedition has established a colony on one of the nearest islands across the sea, but danger has struck the fledgling settlement. An ancient enemy was accidentally released from its prison and has resumed its millennium-old machinations to punish the hubris of humanity once again. Can the adventurers survive in a faraway land and track down this enigmatic being before its sinister plans can come to fruition?",
     "uniqueMechanics": [{ "id": "xxvii", "name": "Colony Management" }],
     "imgPath": "https://pathfinderwiki.com/w/images/5/5b/The_Flooded_Cathedral.jpg"
   },
@@ -325,7 +325,7 @@
     "gameDate": 4718,
     "location": "Taldor",
     "endLevel": 18,
-    "desc": "As the political scene in Taldor explodes into chaos, players take the roles of agents, advocates and saboteurs working for Princess Eutropia to help secure her claim to the throne and prevent the nation from collapsing into civil war.",
+    "desc": "as the political scene in Taldor explodes into chaos, players take the roles of agents, advocates and saboteurs working for Princess Eutropia to help secure her claim to the throne and prevent the nation from collapsing into civil war.",
     "uniqueMechanics": [
       { "id": "xxviii", "name": "Cult of Personality" },
       { "id": "xxix", "name": "Verbal Duels" },
@@ -343,7 +343,7 @@
     "gameDate": 4718,
     "location": "Varisia",
     "endLevel": 20,
-    "desc": "The all-powerful Runelords, near-immortal wizards who ruled Varisia in ancient days, stir to terrible life once more, surging across the frontier with plans to reignite their time-lost empire.",
+    "desc": "the all-powerful Runelords, near-immortal wizards who ruled Varisia in ancient days, stir to terrible life once more, surging across the frontier with plans to reignite their time-lost empire.",
     "uniqueMechanics": [{ "id": "xxxi", "name": "Mythic Opponents" }],
     "imgPath": "https://pathfinderwiki.com/w/images/4/4e/Rise_of_New_Thassilon.jpg"
   },
@@ -357,7 +357,7 @@
     "gameDate": 4719,
     "location": "Lastwall",
     "endLevel": 18,
-    "desc": "Having cheated death itself, the heroes awaken to find that the Lich King Tar-Baphon has escaped his confinement. And now, the Whispering Tyrant seeks to a wield a superweapon the likes of which has never before been seen. Can a brave group of heroes save Lastwall from the Tyrant's Grasp?",
+    "desc": "having cheated death itself, the heroes awaken to find that the Lich King Tar-Baphon has escaped his confinement. And now, the Whispering Tyrant seeks to a wield a superweapon the likes of which has never before been seen. Can a brave group of heroes save Lastwall from the Tyrant's Grasp?",
     "uniqueMechanics": [{ "id": "empty", "name": "" }],
     "imgPath": "https://pathfinderwiki.com/w/images/d/d6/The_Dead_Roads.jpg"
   },
@@ -389,7 +389,7 @@
     "gameDate": 4722,
     "location": "Westmarches",
     "endLevel": 12,
-    "desc": "Dungeon-delving, unravelling conspiracies and defending the Westmarches from an invasion from within!",
+    "desc": "the adventurers will have to venture deep into the labyrinths of the demon-ravaged Slaughtergarde, and uncover the a growing consipiracy that threatens the Westmarches. ",
     "uniqueMechanics": [
       { "id": "xvi", "name": "Mass Combat" },
       { "id": "ix", "name": "Faction Prestige" }

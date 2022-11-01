@@ -9,9 +9,9 @@ const Spotlight = (props) => {
     <div className="book">
       <img className="coverImg" src={props.aps.imgPath} />
       <h2>{props.aps.title}</h2>
+      <p className="description">{props.aps.desc}</p>
       <PubDate pubdate={props.aps.pubDates} />
       <p className="inGameDate">{props.aps.gameDate}</p>
-      <p className="description">{props.aps.desc}</p>
       <Ordinal endLvl={props.aps.endLevel} />
       <div className="mechanics">
         <h3 className="mechHeader">Unique Mechanics</h3>

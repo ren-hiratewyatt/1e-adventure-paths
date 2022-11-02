@@ -23,7 +23,9 @@ const Spotlight = (props) => {
       <h3>Links</h3>
       <div className="linkBox">
         <p className="wikiLink">
-          <a href={props.aps.wikiLink}>Pathfinder Wiki</a>
+          <a href={props.aps.wikiLink} target="_blank">
+            Pathfinder Wiki
+          </a>
         </p>
         <p className="playerGuideAON">
           <a href={props.aps.playersGuide} target="_blank">

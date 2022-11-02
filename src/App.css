@@ -10,7 +10,11 @@ body{
   background-color: black;
   height: 100px;
 
-  margin-top: 0;
+  margin: 0;
+}
+
+a{
+  color: inherit;
 }
 
 h1{
@@ -18,6 +22,7 @@ h1{
   text-align: center;
   margin-bottom: 1em;
   font-family: 'Playfair Display SC', serif;
+  text-decoration: underline;
 }
 
 h2{
@@ -29,6 +34,26 @@ h2,h3{
   font-family: 'Noto Serif JP', serif;
   text-align: center;
   margin-bottom: 0;
+}
+
+.subNav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 1px;
+
+  margin-bottom: 1em;
+  color: white;
+  background-color: black;
+  padding: 1em;
+}
+.tocLink{
+  margin: 0 5px 0 0;
+  font-size: 1.15em;
+}
+.tocLink > a{
+  text-decoration: none;
 }
 
 .bookHolder{
@@ -45,6 +70,7 @@ h2,h3{
 
 .published,.ordinalStr{
   text-align: center;
+  margin-top:1px;
 }
 
 .book{

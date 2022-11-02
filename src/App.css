@@ -1,12 +1,34 @@
 body{
   margin: 0;
+  background-color: gray;
 }
 
-.headerLogo{
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
+.head{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 100px;
+
+  margin-top: 0;
+}
+
+h1{
+  color: white;
+  text-align: center;
   margin-bottom: 1em;
+  font-family: 'Playfair Display SC', serif;
+}
+
+h2{
+  text-decoration: underline;
+  font-weight:700;
+}
+
+h2,h3{
+  font-family: 'Noto Serif JP', serif;
+  text-align: center;
+  margin-bottom: 0;
 }
 
 .bookHolder{
@@ -14,11 +36,21 @@ body{
   flex-direction: column;
   gap: 1em;
   align-items: center;
+  justify-content: center;
+}
+
+.description{
+  padding: 0 1em 0 1em;
+}
+
+.published,.ordinalStr{
+  text-align: center;
 }
 
 .book{
-  border: 3px solid black;
+  border: 10px groove rgb(101, 101, 101);
   width: 650px;
+  background-color: #FCF5EF;
 }
 
 .coverImg{
@@ -27,4 +59,19 @@ body{
   margin-left: auto;
   margin-right: auto;
   margin-top: 1em;
+}
+
+.mechanics, .linkBox{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+
+footer{
+  height:25px;
+  color: white;
+  background-color: black;
+  margin-bottom: 0;
+  text-align: right;
 }

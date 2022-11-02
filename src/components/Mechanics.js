@@ -1,7 +1,7 @@
 const Mechanics = ({ mechs }) => {
   return (
-    <div className="mechParent">
-      <p className="mechChild">{mechs.name}</p>
+    <div className="mechItem">
+      <p>{mechs.name}</p>
     </div>
   )
 }

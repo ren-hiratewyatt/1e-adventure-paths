@@ -15,7 +15,8 @@
       { "id": "002", "name": "Thassalonian Rune Magic", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/1/14/Rise_of_the_Runelords_Anniversary_Edition.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Rise_of_the_Runelords"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Rise_of_the_Runelords",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Rise%20of%20the%20Runelords%20Anniversary%20Edition%20Player%27s%20Guide"
   },
   {
     "id": "02080708",
@@ -32,7 +33,8 @@
       { "id": "003", "name": "Countering a Plague", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/c/cc/Curse_of_the_Crimson_Throne_%28Pathfinder_RPG_hardcover%29.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Curse_of_the_Crimson_Throne"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Curse_of_the_Crimson_Throne",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Curse%20of%20the%20Crimson%20Throne%20(PFRPG)"
   },
   {
     "id": "08080109",
@@ -47,7 +49,8 @@
     "desc": "the drow beneath Varisia scheme and plot, and far above in the skies, a dark shadow lurks, which many fear is a portent of coming doom. Can the players stp the drow before a Second Darkness falls upon the earth?",
     "uniqueMechanics": [{ "id": "004", "name": "Innkeeping", "subpage": "" }],
     "imgPath": "https://pathfinderwiki.com/w/images/thumb/2/20/Second_Darkness_Companion.jpg/453px-Second_Darkness_Companion.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Second_Darkness"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Second_Darkness",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Second%20Darkness%20Player%27s%20Guide"
   },
   {
     "id": "02090709",
@@ -64,7 +67,8 @@
       { "id": "005", "name": "City Liberation", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/c/ca/LoF_Player%27s_Guide.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Legacy_of_Fire"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Legacy_of_Fire",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Legacy%20of%20Fire%20Player%27s%20Guide"
   },
   {
     "id": "08090110",
@@ -81,7 +85,8 @@
       { "id": "006", "name": "Fame and Popularity", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/4/40/Council_of_Thieves_Player%27s_Guide.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Council_of_Thieves_(adventure_path)"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Council_of_Thieves_(adventure_path)",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Council%20of%20Thieves%20Player%27s%20Guide"
   },
   {
     "id": "02100710",
@@ -98,7 +103,8 @@
       { "id": "007", "name": "Kingdom Management", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/f/f1/War_of_the_River_Kings.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Kingmaker_(adventure_path)"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Kingmaker_(adventure_path)",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Kingmaker%20Player%27s%20Guide"
   },
   {
     "id": "08100111",
@@ -116,7 +122,8 @@
       { "id": "009", "name": "Faction Prestige", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/5/5b/Serpent%27s_Skull_Player%27s_Guide.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Serpent%27s_Skull_(adventure_path)"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Serpent%27s_Skull_(adventure_path)",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Serpent%27s%20Skull%20Player%27s%20Guide"
   },
   {
     "id": "02110711",
@@ -133,7 +140,8 @@
       { "id": "010", "name": "Harrow Card Hero Points", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/4/42/Carrion_Crown_Player%27s_Guide_cover.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Carrion_Crown"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Carrion_Crown",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Carrion%20Crown%20Player%27s%20Guide"
   },
   {
     "id": "08110112",
@@ -150,7 +158,8 @@
       { "id": "011", "name": "Caravan System", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/7/76/Forest_of_Spirits.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Jade_Regent_(adventure_path)"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Jade_Regent_(adventure_path)",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Jade%20Regent%20Player%27s%20Guide"
   },
   {
     "id": "02120712",
@@ -170,7 +179,8 @@
       { "id": "040", "name": "Infamy and Disrepute", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/f/f7/Skull_%26_Shackles_Player%27s_Guide.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Skull_%26_Shackles"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Skull_%26_Shackles",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Skull%20and%20Shackles%20Player%27s%20Guide"
   },
   {
     "id": "08120113",
@@ -187,7 +197,8 @@
       { "id": "015", "name": "Faction Prestige", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/8/8e/Shards_of_Sin.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Shattered_Star_(adventure_path)"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Shattered_Star_(adventure_path)",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Shattered%20Star%20Player%27s%20Guide"
   },
   {
     "id": "02130713",
@@ -202,7 +213,8 @@
     "desc": "it has been a century since the immortal witch Baba Yaga last visited the world, and the hour draws nigh for her return. After 1,400 years of perpetual winter, the icy curse of Irrisen is spreading! What links do these strange blizzards and swaths of wintry landscapes have with Irrisen, and is there any truth to the growing rumors that the Witch Queen Elvanna has taken full control of the realm? Can her plans for the Inner Sea be thwarted, or will the Reign of Winter engulf the world?",
     "uniqueMechanics": [{ "id": "016", "name": "", "subpage": "" }],
     "imgPath": "https://pathfinderwiki.com/w/images/b/be/The_Witch_Queen%27s_Revenge.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Reign_of_Winter"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Reign_of_Winter",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Reign%20of%20Winter%20Player%27s%20Guide"
   },
   {
     "id": "08130114",
@@ -221,7 +233,8 @@
       { "id": "019", "name": "Redemption", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/b/b0/Sword_of_Valor.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Wrath_of_the_Righteous"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Wrath_of_the_Righteous",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Wrath%20of%20the%20Righteous%20Player%27s%20Guide"
   },
   {
     "id": "02140714",
@@ -238,7 +251,8 @@
       { "id": "020", "name": "Chariot Combat", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/6/61/Pyramid_of_the_Sky_Pharaoh.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Mummy%27s_Mask"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Mummy%27s_Mask",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Mummy%27s%20Mask%20Player%27s%20Guide"
   },
   {
     "id": "08140115",
@@ -255,7 +269,8 @@
       { "id": "021", "name": "Sci Fi Technology", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/3/3d/Iron_Gods_Player%27s_Guide.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Iron_Gods_(adventure_path)"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Iron_Gods_(adventure_path)",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Iron%20Gods%20Player%27s%20Guide"
   },
   {
     "id": "02140715",
@@ -270,7 +285,8 @@
     "desc": "deep in the Mindspin Mountains, a storm giant warlord known as the Storm Tyrant has seized control of a cloud castle and an Orb of Dragonkind, and is gathering an army of giants from across western world. Can the giant army be defeated before it can conquer the human lands of the Inner Sea, or will all of Avistan bow down in fealty to the Storm Tyrant?",
     "uniqueMechanics": [{ "id": "022", "name": "Resolve", "subpage": "" }],
     "imgPath": "https://pathfinderwiki.com/w/images/e/e3/Shadow_of_the_Storm_Tyrant.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Giantslayer"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Giantslayer",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Giantslayer%20Player%27s%20Guide"
   },
   {
     "id": "08150116",
@@ -288,7 +304,8 @@
       { "id": "024", "name": "Team Organization", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/a/a7/Turn_of_the_Torrent.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Hell%27s_Rebels"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Hell%27s_Rebels",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Hell%27s%20Rebels%20Player%27s%20Guide"
   },
   {
     "id": "02160816",
@@ -305,7 +322,8 @@
       { "id": "025", "name": "Counter-Revolutionary Actions", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/e/ec/Hell_Comes_to_Westcrown.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Hell%27s_Vengeance"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Hell%27s_Vengeance",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Hell%27s%20Vengeance%20Player%27s%20Guide"
   },
   {
     "id": "08160217",
@@ -323,7 +341,8 @@
       { "id": "027", "name": "Insanity and Madness", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/3/33/What_Grows_Within.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Strange_Aeons"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Strange_Aeons",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Strange%20Aeons%20Player%27s%20Guide"
   },
   {
     "id": "03170817",
@@ -340,7 +359,8 @@
       { "id": "028", "name": "Guerrilla Warfare", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/8/87/Trail_of_the_Hunted.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Ironfang_Invasion_(adventure_path)"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Ironfang_Invasion_(adventure_path)",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Ironfang%20Invasion%20Player%27s%20Guide"
   },
   {
     "id": "08170118",
@@ -357,7 +377,8 @@
       { "id": "029", "name": "Colony Management", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/5/5b/The_Flooded_Cathedral.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Ruins_of_Azlant_(adventure_path)"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Ruins_of_Azlant_(adventure_path)",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Ruins%20of%20Azlant%20Player%27s%20Guide"
   },
   {
     "id": "02180718",
@@ -376,7 +397,8 @@
       { "id": "032", "name": "Social Combat", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/a/aa/The_Twilight_Child.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/War_for_the_Crown"
+    "wikiLink": "https://pathfinderwiki.com/wiki/War_for_the_Crown",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=War%20for%20the%20Crown%20Player%27s%20Guide"
   },
   {
     "id": "08180119",
@@ -393,7 +415,8 @@
       { "id": "033", "name": "Mythic Opponents", "subpage": "" }
     ],
     "imgPath": "https://pathfinderwiki.com/w/images/4/4e/Rise_of_New_Thassilon.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Return_of_the_Runelords"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Return_of_the_Runelords",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Return%20of%20the%20Runelords%20Players%20Guide"
   },
   {
     "id": "02190819",
@@ -408,7 +431,8 @@
     "desc": "having cheated death itself, the heroes awaken to find that the Lich King Tar-Baphon has escaped his confinement. And now, the Whispering Tyrant seeks to a wield a superweapon the likes of which has never before been seen. Can a brave group of heroes save Lastwall from the Tyrant's Grasp?",
     "uniqueMechanics": [{ "id": "034", "name": "", "subpage": "" }],
     "imgPath": "https://pathfinderwiki.com/w/images/d/d6/The_Dead_Roads.jpg",
-    "wikiLink": "https://pathfinderwiki.com/wiki/Tyrant%27s_Grasp_(adventure_path)"
+    "wikiLink": "https://pathfinderwiki.com/wiki/Tyrant%27s_Grasp_(adventure_path)",
+    "playersGuide": "https://www.aonprd.com/SourceDisplay.aspx?FixedSource=Tyrant%27s%20Grasp%20Player%27s%20Guide"
   },
   {
     "id": "03010301",
@@ -427,7 +451,8 @@
       { "id": "037", "name": "Unique Classes", "subpage": "" }
     ],
     "imgPath": "https://static.wikia.nocookie.net/diablo/images/a/ac/To_Hell_and_Back.jpg",
-    "wikiLink": ""
+    "wikiLink": "",
+    "playersGuide": ""
   },
   {
     "id": "10221022",
@@ -445,6 +470,7 @@
       { "id": "039", "name": "Faction Prestige", "subpage": "" }
     ],
     "imgPath": "http://3.bp.blogspot.com/-HkkLpEAU9AI/VLNXrd5deEI/AAAAAAAACdM/_-PZTnCuFcg/s1600/spotlight_156.jpg",
-    "wikiLink": ""
+    "wikiLink": "",
+    "playersGuide": ""
   }
 ]

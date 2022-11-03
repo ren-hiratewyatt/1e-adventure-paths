@@ -46,7 +46,7 @@
     "gameDate": 4708,
     "location": "Varisia",
     "endLevel": 15,
-    "desc": "the drow beneath Varisia scheme and plot, and far above in the skies, a dark shadow lurks, which many fear is a portent of coming doom. Can the players stp the drow before a Second Darkness falls upon the earth?",
+    "desc": "the drow beneath Varisia scheme and plot, and far above in the skies, a dark shadow lurks, which many fear is a portent of coming doom. Can the players stop the drow before a Second Darkness falls upon the earth?",
     "uniqueMechanics": [{ "id": "004", "name": "Innkeeping", "subpage": "" }],
     "imgPath": "https://pathfinderwiki.com/w/images/thumb/2/20/Second_Darkness_Companion.jpg/453px-Second_Darkness_Companion.jpg",
     "wikiLink": "https://pathfinderwiki.com/wiki/Second_Darkness",
